@@ -11,14 +11,13 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 // import App from './App';
 // import FirstCompo from './props/FirstCompo';
-import B from './state/B';
-
+import C from './state/C';
 
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render( 
-    <B />
+    <C />
 );
 
 
